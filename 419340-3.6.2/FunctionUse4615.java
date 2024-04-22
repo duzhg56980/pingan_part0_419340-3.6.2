@@ -1,0 +1,7 @@
+import org.apache.zookeeper.server.admin.CommandBase;
+public class FunctionUse4615 {
+public void funcUse() {
+CommandBase commandbase = new CommandBase();
+commandbase.getPrimaryName();
+}
+}
